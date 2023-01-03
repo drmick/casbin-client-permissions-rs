@@ -1,0 +1,11 @@
+g,Guest,public,*
+p,Guest,/sign_in,*
+p,Guest,/sign_up,*
+
+p,Public,/life_check,*
+
+p,User,/sign_out,*
+p,User,/current,*
+
+p,Spec,/spec/profile,*
+p,Spec,/sign_out,*
